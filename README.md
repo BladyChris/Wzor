@@ -5,5 +5,6 @@ Wzor
 3. Coś o sobie:
 4. Dlaczego Ty?:
 5. Posiadasz orginalną/piracką wersje MineCraft?:
-6. Posiadasz discorda?
-7. Obserwujesz kanał BladyChris na Twitch.tv?
+6. Posiadasz discorda:?
+7. Obserwujesz kanał BladyChris na Twitch.tv:?
+8. Twój Email:
