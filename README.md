@@ -8,3 +8,5 @@ Wzor
 6. Posiadasz discorda:?
 7. Obserwujesz kanał BladyChris na Twitch.tv:?
 8. Twój Email:
+
+Podanie wyślij na PolishSurvivors@gmail.com
